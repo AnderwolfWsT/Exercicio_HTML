@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: white;
+}
+.botaocadastrar{
+    background-color: rgb(0, 128, 68);
+}
+.botaoapagar{
+    background-color: red;
+}
